@@ -47,7 +47,7 @@
   <option value="chicken" selected>チキンカレー
  </select></p>
  <p>好きなカレーは
-   <select name="input14 multiple>
+   <select name="input14" multiple>
   <option value="beef" selected>ビーフカレー
   <option value="seafood" selected>シーフードカレー
   <option value="chicken">チキンカレー
